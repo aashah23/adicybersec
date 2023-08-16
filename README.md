@@ -4,7 +4,7 @@
 - <b>[Azure Sentinel (SIEM) - Failed RDP to IP Geolocation](https://github.com/aashah23/AzureSentinelSIEM/tree/main#readme)</b> 
 
 
-- <b>Active Directory: Oracle VirtualBox (Blog documentation in progress)</b>
+- <b>Active Directory Home Lab (Blog documentation in progress)</b>
   -  Conducting Active Directory Administration.
   -  Utilizing PowerShell to automate provision, maintaining and deprovision of user accounts.
   -  Setting up Remote Access Server (RAS) features for NAT/ PAT support.
