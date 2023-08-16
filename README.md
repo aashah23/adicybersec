@@ -24,11 +24,6 @@
   -  Troubleshooting any issues on family, friends and neighbours devices.
   -  Utilized Bitlocker and FileVault for encrypting pen drives and removable HDDs.
 
-<h3>📺 Certifications</h3>
-- [Google Cybersecurity Professional Certificate] (https://www.coursera.org/account/accomplishments/specialization/certificate/8MYXSEQAHYQB)
+<h3>📃 Certifications</h3>
 
-
-
-
-
-
+[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8MYXSEQAHYQB)
