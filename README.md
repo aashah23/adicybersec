@@ -1,13 +1,8 @@
-<h1>Hi, I'm Adi! <br/><a href="https://github.com/aashah23"></a> <a href="https://www.linkedin.com/in/aditya-s-a5b3848a/">Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Adi! <br/><a href="https://github.com/aashah23"></a> <a href="https://www.linkedin.com/in/aditya-s-a5b3848a/">Astrophysics Prgorammer & Cybersecurity Enthusiast</a>
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>Azure Sentinel: SIEM (Blog documentation in progress)</b> 
-  -  Utilizing a custom PowerShell script for metadata extraction from Windows Event Viewer
-  -  Forwarding data to third party API for geolocation data.
-  -  Configuring Log Analytics Workspace in Azure to ingest custom logs with geographic information.
-  -  Using Custom Fields in Log Analytics Workspace to map geo data in Azure Sentinel
-  -  Displaying global attack data (RDP brute force) on world map via Azure Sentinel Workbook.
-    
+- <b>[Azure Sentinel (SIEM) - Failed RDP to IP Geolocation](https://github.com/aashah23/AzureSentinelSIEM/tree/main#readme)</b> 
+
 
 - <b>Active Directory: Oracle VirtualBox (Blog documentation in progress)</b>
   -  Conducting Active Directory Administration.
