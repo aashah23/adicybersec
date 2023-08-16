@@ -1,7 +1,7 @@
 <h1>Hi, I'm Adi! <br/><a href="https://github.com/aashah23"></a> <a href="https://www.linkedin.com/in/aditya-s-a5b3848a/">Cybersecurity Enthusiast</a>
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>Azure Sentinel (SIEM) [Blog documentation in progress])</b> 
+- <b>Azure Sentinel: SIEM (Blog documentation in progress)</b> 
   -  Utilizing a custom PowerShell script for metadata extraction from Windows Event Viewer
   -  Forwarding data to third party API for geolocation data.
   -  Configuring Log Analytics Workspace in Azure to ingest custom logs with geographic information.
@@ -9,7 +9,7 @@
   -  Displaying global attack data (RDP brute force) on world map via Azure Sentinel Workbook.
     
 
-- <b>Active Directory (Oracle VirtualBox) [Blog documentation in progress])</b>
+- <b>Active Directory: Oracle VirtualBox (Blog documentation in progress)</b>
   -  Conducting Active Directory Administration.
   -  Utilizing PowerShell to automate provision, maintaining and deprovision of user accounts.
   -  Setting up Remote Access Server (RAS) features for NAT/ PAT support.
@@ -26,4 +26,6 @@
 
 <h3>📃 Certifications</h3>
 
-[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8MYXSEQAHYQB)
+1. [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8MYXSEQAHYQB)
+
+2. CompTIA A+ [In-progress]
