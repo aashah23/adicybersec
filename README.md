@@ -1,7 +1,7 @@
 <h1>Hi, I'm Adi! <br/><a href="https://github.com/aashah23"></a> <a href="https://www.linkedin.com/in/aditya-s-a5b3848a/">Cybersecurity Enthusiast</a>
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>Azure Sentinel (SIEM) [Blog documentation in progress])</b>
+- <b>Azure Sentinel (SIEM) [Blog documentation in progress])</b> 
   -  Utilizing a custom PowerShell script for metadata extraction from Windows Event Viewer
   -  Forwarding data to third party API for geolocation data.
   -  Configuring Log Analytics Workspace in Azure to ingest custom logs with geographic information.
@@ -23,8 +23,12 @@
   -  Enabling and configuring Microsoft Firewall.
   -  Troubleshooting any issues on family, friends and neighbours devices.
   -  Utilized Bitlocker and FileVault for encrypting pen drives and removable HDDs.
-    
 
-[linkedin]: https://linkedin.com/in/aditya-s-a5b3848a
+<h3>📺 Certifications</h3>
+- [Google Cybersecurity Professional Certificate] (https://www.coursera.org/account/accomplishments/specialization/certificate/8MYXSEQAHYQB)
+
+
+
+
 
 
