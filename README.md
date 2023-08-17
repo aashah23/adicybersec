@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adi! <br/><a href="https://github.com/aashah23"></a> <a href="https://www.linkedin.com/in/aditya-s-a5b3848a/">Astrophysics Programmer & Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Adi! <br/><a href="https://github.com/aashah23"></a> <a href="https://www.linkedin.com/in/aditya-s-a5b3848a/">IT Support & Cybersecurity Student</a>
 <h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>[Azure Sentinel (SIEM) - Failed RDP to IP Geolocation](https://github.com/aashah23/AzureSentinelSIEM/tree/main#readme)</b> 
