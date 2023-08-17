@@ -5,11 +5,7 @@
 
 
 - <b>Active Directory Home Lab (GitHub documentation in progress)</b>
-  -  Conducting Active Directory Administration.
-  -  Utilizing PowerShell to automate provision, maintaining and deprovision of user accounts.
-  -  Setting up Remote Access Server (RAS) features for NAT/ PAT support.
-  -  Implementing and maintaining Windows DNS and DHCP services.
-  -  Configuring Windows File Servers with quota implementation and NTFS permission.
+
 
 
 - <b>Home Endpoint Troubleshooter </b>
