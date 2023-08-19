@@ -7,13 +7,14 @@
 - <b>Active Directory Home Lab (GitHub documentation in progress)</b>
 
 
+<h3>👨‍💻 IT Support Projects:</h3>
 
 - <b>Home Endpoint Troubleshooter </b>
-  -  Connecting and setting up internet on home devices (iOS, Microsoft Windows, some Linux).
-  -  Configuring and updating Microsoft Defender.
-  -  Enabling and configuring Microsoft Firewall.
-  -  Troubleshooting any issues on family, friends and neighbours devices.
-  -  Utilized Bitlocker and FileVault for encrypting pen drives and removable HDDs.
+  -  Connecting and setting up internet on home devices (iOS, Microsoft Windows, some Linux).</b> 
+  -  Configuring and updating Microsoft Defender.</b> 
+  -  Enabling and configuring Microsoft Firewall.</b> 
+  -  Troubleshooting any issues on family, friends and neighbours devices.</b> 
+  -  Utilized Bitlocker and FileVault for encrypting pen drives and removable HDDs.</b> 
 
 <h3>📃 Certifications</h3>
 
