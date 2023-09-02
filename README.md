@@ -20,4 +20,4 @@
 
 1. [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8MYXSEQAHYQB)
 
-2. CompTIA A+ [In-progress]
+
